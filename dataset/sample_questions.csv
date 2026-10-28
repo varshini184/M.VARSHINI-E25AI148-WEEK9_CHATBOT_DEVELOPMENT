@@ -1,0 +1,22 @@
+
+Question_ID,Category,Question
+1,Factual,What is artificial intelligence?
+2,Factual,What is machine learning?
+3,Factual,What is deep learning?
+4,Factual,What is natural language processing?
+5,Factual,What is a programming language?
+6,Reasoning,Why do students learn programming?
+7,Reasoning,What is the difference between AI and machine learning?
+8,Reasoning,Why are loops useful in programming?
+9,Reasoning,How can technology improve education?
+10,Reasoning,Why is data important in artificial intelligence?
+11,Coding,Write a Python program to add two numbers.
+12,Coding,Write a Python program to check whether a number is even or odd.
+13,Coding,Explain a for loop in Python with an example.
+14,Coding,Write a Python program to find the largest of two numbers.
+15,Coding,What is the purpose of a Python function?
+16,General,How can I improve my study habits?
+17,General,Give me tips to prepare for an examination.
+18,General,Explain variables in simple language.
+19,General,What are the advantages of online learning?
+20,General,How can I manage my study time effectively?
